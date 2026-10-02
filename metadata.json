@@ -1,0 +1,6 @@
+{
+  "name": "Cherry AI",
+  "description": "Romantic and creative AI companion with intelligent content moderation and community reporting assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
