@@ -40,7 +40,7 @@ interface ChatBackendService {
 
 object GeminiClient {
     private const val BASE_URL =
-        "https://YOUR-SERVICE.onrender.com/"
+    "https://ai-o8ep.onrender.com/"
 
     private val service: ChatBackendService by lazy {
         val moshi = Moshi.Builder()
